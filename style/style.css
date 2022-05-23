@@ -1,0 +1,40 @@
+h1, h2, h3, h4, h5, h6, p, footer{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 3.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+.mt-40 {
+    margin-top: 40px;
+}
+
+table.text td {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+
+.round {
+    border-radius: 15px;
+}
+
+.color-blue {
+    color: #1a65c7;
+}
+
+.color-grey {
+    color: #636060;
+}
+
+.color-red {
+    color: #c01f1f;
+}
+
+button {
+    font-family: 'Open Sans', sans-serif;
+}
